@@ -10,5 +10,7 @@
 - 💬 Ask me about React, Javascript and (whiy not?) Excel stuffs (specially macros in VBA).
 - 📫 How to reach me: Linkedin - @vitorgonzaga
 - 😄 Pronouns: Just Vitor.
-- ⚡ Fun fact: The credit card pay can be late, but the coffe bottle is fullfilled! Yeah! kkk
--->
+- ⚡ Fun fact: The credit card pay can be late, but the coffe bottle is fullfilled! Yeah!
+
+[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorgonzaga)](https://github.com/anuraghazra/github-readme-stats)
+
