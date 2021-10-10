@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitor Ferreira 👋
 
-### I'm a Husband, Father and front-end Developer.
+### I'm a husband, father and front-end developer.
 
 - 🔭 I’m currently working on projects related a back-end pratices at Trybe.
 - 🌱 I’m ~~currently~~ always learning React, Javascript and recently started back-end stuffs.
