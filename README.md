@@ -12,15 +12,8 @@
 - 😄 Pronouns: Just Vitor.
 - ⚡ Fun fact: The credit card pay can be late, but the coffe bottle is fullfilled! Yeah!
 
-[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorgonzaga&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=vitorgonzaga&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonzaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonzaga&layout=compact&theme=radical" />
 
-[![Vitor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorgonzaga)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorgonzaga&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorgonzaga&repo=vitorgonzaga" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorgonzaga&theme=radical" />
