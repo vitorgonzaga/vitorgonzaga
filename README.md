@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Vitor Ferreira 👋
 
-<!--
-**vitorgonzaga/vitorgonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Husband, Father and front-end Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on projects related a back-end studies.
+- 🌱 I’m currently learning React, Javascript and back-end stuffs.
+- 👯 I’m looking to collaborate on projects in a great company with great people.
+- 🤔 I’m looking for help with any kind of problem with hard and soft skills.
+- 💬 Ask me about React, Javascript and (whiy not?) Excel stuffs (specially macros in VBA).
+- 📫 How to reach me: Linkedin - @vitorgonzaga
+- 😄 Pronouns: Just Vitor.
+- ⚡ Fun fact: The credit card pay can be late, but the coffe bottle is fullfilled! Yeah! kkk
 -->
