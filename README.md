@@ -13,8 +13,8 @@
 - ⚡ Fun fact: The credit card pay can be late, but the coffe bottle is fullfilled! Yeah!
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorgonzaga&show_icons=true&theme=radical" />
-  <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonzaga&layout=compact&theme=radical" />
+  <img align="center" margin="0 10 10 0" src="https://github-readme-stats.vercel.app/api?username=vitorgonzaga&show_icons=true&theme=radical" />
+  <img align="center" height="50px" margin="0 10 10 0" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonzaga&layout=compact&theme=radical" />
 </div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorgonzaga&theme=radical" />
 
