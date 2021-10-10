@@ -1,14 +1,13 @@
-### Hi there, I'm Vitor Ferreira 👋
+## Hi there, I'm Vitor Ferreira 👋
 
+### I'm a Husband, Father and front-end Developer.
 
-## I'm a Husband, Father and front-end Developer.
-
-- 🔭 I’m currently working on projects related a back-end studies.
-- 🌱 I’m currently learning React, Javascript and back-end stuffs.
+- 🔭 I’m currently working on projects related a back-end pratices at Trybe.
+- 🌱 I’m ~~currently~~ always learning React, Javascript and recently started back-end stuffs.
 - 👯 I’m looking to collaborate on projects in a great company with great people.
-- 🤔 I’m looking for help with any kind of problem with hard and soft skills.
+- 🤔 I’m looking for help any kind of problem with hard and soft skills.
 - 💬 Ask me about React, Javascript and (whiy not?) Excel stuffs (specially macros in VBA).
-- 📫 How to reach me: Linkedin - @vitorgonzaga
+- 📫 How to reach me: [Linkedin - @vitorgonzaga](https://www.linkedin.com/in/vitorgonzaga/), Email: <vitor.gonzagaf1@gmail.com>
 - 😄 Pronouns: Just Vitor.
 - ⚡ Fun fact: The credit card pay can be late, but the coffe bottle is fullfilled! Yeah!
 
