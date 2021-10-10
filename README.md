@@ -14,8 +14,8 @@
 
 <div align="centrer" margin="0 0 20px 0">
   <div align="center" margin="0 0 20px 0">
-    <img align="center" margin="0px 10px 10px 0px" src="https://github-readme-stats.vercel.app/api?username=vitorgonzaga&show_icons=true&theme=radical" />
-    <img align="center" height="195px" margin="0 10px 10px 0" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonzaga&layout=compact&theme=radical" />
+    <img align="left" margin="0px 10px 10px 0px" src="https://github-readme-stats.vercel.app/api?username=vitorgonzaga&show_icons=true&theme=radical" />
+    <img align="right" height="195px" margin="0 10px 10px 0" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonzaga&layout=compact&theme=radical" />
   </div>
     <img align="center" margin="20px 0 0 0" src="https://github-readme-stats.vercel.app/api/wakatime?username=vitorgonzaga&theme=radical" />
 </div>
