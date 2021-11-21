@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on projects in a great company with great people.
 - 💬 Ask me about React, Javascript and (why not?) Excel stuffs (specially macros in VBA).
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vitorgonzaga/" target="_blank">Linkedin - @vitorgonzaga</a> and <vitor.gonzagaf1@gmail.com>.
-- 😄 Pronouns: Just Vitor is enought for me!
 - ⚡ Fun fact: The credit card pay can be late, but the coffe bottle is fullfilled! Yeah!
 
 <div style="display=inline_block">
