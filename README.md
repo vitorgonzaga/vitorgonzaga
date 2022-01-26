@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgonzaga&layout=compact&theme=radical" />
 </div>
 
-### Frontend stack:
+### Fundamentals and Frontend stack:
 
 <div>
   <img align="center" alt="bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">  
