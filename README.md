@@ -1,6 +1,6 @@
 ## Hi there, I'm Vitor Ferreira 👋
 
-- 🔭 I’m currently working on projects related a back-end pratices at Trybe.
+- 🔭 I’m currently working on projects related a back-end pratices with JAVA, SpringBoot, Quarkus and Docker.
 - 🌱 I’m ~~currently~~ always learning React, Javascript, Node.js, Express, MongoDB, TDD and more...
 - 👯 I’m looking to collaborate on projects in a great company with great people.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vitorgonzaga/" target="_blank">Linkedin - @vitorgonzaga</a> and <vitor.gonzagaf1@gmail.com>.
